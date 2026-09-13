@@ -1,16 +1,18 @@
 <!--
   ============================================================
   GitHub Profile README — Molaka Sohan (github.com/molakasohan)
-  Edit the placeholders marked with <!-- comments --> as needed.
-  ============================================================
--->
 
+  Edit the placeholders marked with <!-- comments --> <img width="1200" height="300" alt="header-banner" src="https://github.com/user-attachments/assets/a1ca46fe-09f8-4109-a4b2-c14d1a16df86" />
+
+  ===================================================================================
 <div align="center">
 
 <!-- Header banner image — lives in ./assets/header-banner.png in this repo. -->
 <img src="./assets/header-banner.png" alt="Molaka Sohan — Data Analyst" width="100%" />
 
 <br/>
+
+
 
 <!-- Animated typing banner — edit the lines/speed at readme-typing-svg.demolab.com -->
 <a href="https://git.io/typing-svg">
