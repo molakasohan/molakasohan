@@ -1,5 +1,16 @@
+<!--
+  ============================================================
+  GitHub Profile README — Molaka Sohan (github.com/molakasohan)
+  Edit the placeholders marked with <!-- comments --> as needed.
+  ============================================================
+-->
 
 <div align="center">
+
+<!-- Header banner image — lives in ./assets/header-banner.png in this repo. -->
+<img src="./assets/header-banner.png" alt="Molaka Sohan — Data Analyst" width="100%" />
+
+<br/>
 
 <!-- Animated typing banner — edit the lines/speed at readme-typing-svg.demolab.com -->
 <a href="https://git.io/typing-svg">
@@ -15,8 +26,6 @@
 <a href="https://www.linkedin.com/in/sohanmolaka95">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<!-- <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> -->
-<!-- <a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" /></a> -->
 
 </div>
 
@@ -32,8 +41,6 @@
 - 📍 Based in Hyderabad, Telangana, India
 - 💬 Languages: English, Hindi, Telugu
 - ⚡ Fun fact: I've completed job simulations with Citi, Deloitte, Tata, and JPMorgan Chase — real-world problems before a real-world job!
-
-<!-- Add/adjust interests or fun facts above as you like -->
 
 ---
 
@@ -68,8 +75,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-3A3A3A?style=for-the-badge&logo=googlechrome&logoColor=white)
 
-<!-- Add or remove badges from https://shields.io or https://github.com/Ileriayo/markdown-badges as your stack grows -->
-
 ---
 
 ## 🚀 Featured Projects
@@ -89,31 +94,21 @@
 
 <!-- 🔗 GitHub: [Add repo link] | 🌐 Live Demo: [Add demo link, if any] -->
 
-<!--
-  Add more project blocks by copying the pattern above:
-  ### Icon Project Name
-  `Tech` · `Tech` · `Dates`
-  - Point 1
-  - Point 2
-  🔗 GitHub: [link] | 🌐 Live Demo: [link]
--->
-
 ---
 
 ## 📊 GitHub Stats
 
-<!-- IMPORTANT: replace molaka-sohan below with your exact GitHub username -->
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=molaka-sohan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=molaka-sohan&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=molakasohan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=molakasohan&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=molaka-sohan&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=molakasohan&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=molaka-sohan&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=molakasohan&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
@@ -138,8 +133,6 @@
 - 📊 Deepening Power BI dashboarding and data storytelling
 - 🧮 Advanced SQL querying and database optimization
 
-<!-- Update this list as your learning focus shifts -->
-
 ---
 
 ## 🤝 Open to Collaborate On
@@ -163,14 +156,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=molaka-sohan&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=molakasohan&style=flat-square&color=blue" alt="Profile views" />
 </div>
-
-<!--
-  Widget notes:
-  - github-readme-stats, streak-stats, and activity-graph are free public services
-    that render live from your GitHub username — no setup needed beyond replacing
-    the username in the image URLs above.
-  - If any card shows an error, double-check the username matches exactly and that
-    your GitHub profile/stats are public.
--->
