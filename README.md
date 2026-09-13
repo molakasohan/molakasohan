@@ -1,12 +1,3 @@
-<!--
-  ============================================================
-  GitHub Profile README — Molaka Sohan
-  Edit the placeholders marked with <!-- comments --> as needed.
-  Replace `molaka-sohan` below with your ACTUAL GitHub username
-  wherever it appears (stats cards, streak stats, social links)
-  for the widgets to render correctly.
-  ============================================================
--->
 
 <div align="center">
 
